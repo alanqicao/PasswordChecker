@@ -33,7 +33,7 @@ This C# console application provides two main functionalities:
 - **Basic Security Measures:** The password strength checker and generator are basic implementations. They do not include advanced security features needed for high-security environments.
 - **Randomness:** The randomness of the generated password is based on the system's built-in random number generator, which may not be suitable for cryptographic applications.
 
-## Ethical Considerations and Responsible Use
+## Responsible Use
 - **Potential Misuse:** While designed as an educational tool, the source code can be modified. Users should be aware that modifying or adapting this code for malicious purposes is unethical.
 - **False Sense of Security:** The generated passwords and strength evaluations are simplistic and should not be solely relied upon for securing production systems. Users must supplement this tool with industry-standard security practices.
 - **User Responsibility:** Always review and test any security-related code thoroughly. Ensure you understand its limitations and do not deploy it in environments where robust security is critical.
